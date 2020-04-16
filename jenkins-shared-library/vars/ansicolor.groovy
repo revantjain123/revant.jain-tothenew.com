@@ -1,0 +1,3 @@
+ansiColor('xterm') {
+    // some block
+}
